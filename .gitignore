@@ -37,3 +37,6 @@ next-env.d.ts
 
 # kiro spec files (local only)
 .kiro/specs/shopease/
+
+# editor settings (local only)
+.vscode/
