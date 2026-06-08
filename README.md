@@ -63,7 +63,7 @@ Built with Next.js 14 (App Router), TypeScript in strict mode, and Tailwind CSS,
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/shopease.git
+git clone https://github.com/naemuenggar/shopease.git
 cd shopease
 npm install
 ```
@@ -172,7 +172,7 @@ Possible next steps to evolve ShopEase beyond a front-end prototype:
 
 **Naemu Enggar** 
 
-- GitHub: [@your-username](https://github.com/naemuenggar)
+- GitHub: [@naemuenggar](https://github.com/naemuenggar)
 
 ## License
 
