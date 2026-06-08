@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Theme tokens. Mobile-first defaults live in :root (light theme).
+ * The .dark class is applied to <html> via the theme store (Tailwind
+ * darkMode: "class" strategy) to switch to the dark palette.
+ * Colors are expressed as space-separated RGB channels so Tailwind's
+ * <alpha-value> opacity modifiers work (e.g. bg-primary/50).
+ */
+:root {
+  --color-background: 255 255 255;
+  --color-foreground: 17 24 39;
+  --color-card: 255 255 255;
+  --color-card-foreground: 17 24 39;
+  --color-muted: 243 244 246;
+  --color-muted-foreground: 107 114 128;
+  --color-border: 229 231 235;
+  --color-primary: 79 70 229;
+  --color-primary-foreground: 255 255 255;
+  --color-accent: 236 72 153;
+  --color-accent-foreground: 255 255 255;
+}
+
+.dark {
+  --color-background: 17 24 39;
+  --color-foreground: 243 244 246;
+  --color-card: 31 41 55;
+  --color-card-foreground: 243 244 246;
+  --color-muted: 31 41 55;
+  --color-muted-foreground: 156 163 175;
+  --color-border: 55 65 81;
+  --color-primary: 129 140 248;
+  --color-primary-foreground: 17 24 39;
+  --color-accent: 244 114 182;
+  --color-accent-foreground: 17 24 39;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+}
