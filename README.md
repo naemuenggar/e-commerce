@@ -42,8 +42,8 @@ Built with Next.js 14 (App Router), TypeScript in strict mode, and Tailwind CSS,
 
 | Home | Products |
 | --- | --- |
-| (<img width="1848" height="988" alt="image" src="https://github.com/user-attachments/assets/92583111-fbad-45d7-8f92-7619d2c1514b" />
-) | ![Product listing page](<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/50a6706c-01cf-4fd4-88aa-87ba20df06b4" />
+| <img width="1848" height="988" alt="image" src="https://github.com/user-attachments/assets/92583111-fbad-45d7-8f92-7619d2c1514b" />
+) <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/50a6706c-01cf-4fd4-88aa-87ba20df06b4" />
 ) |
 
 | Product Detail | Cart |
