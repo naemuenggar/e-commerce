@@ -40,22 +40,30 @@ Built with Next.js 14 (App Router), TypeScript in strict mode, and Tailwind CSS,
 
 > Replace the placeholders below with real screenshots of the running app.
 
-| Home | Products |
-| --- | --- |
+| Home |
+| --- |
 | <img width="1848" height="988" alt="image" src="https://github.com/user-attachments/assets/92583111-fbad-45d7-8f92-7619d2c1514b" />
-) <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/50a6706c-01cf-4fd4-88aa-87ba20df06b4" />
-) |
+|
 
-| Product Detail | Cart |
-| --- | --- |
+| Products |
+| --- |
+ <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/50a6706c-01cf-4fd4-88aa-87ba20df06b4" />
+|
+
+| Product Detail |
+| --- |
 | (<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2b21c72f-8c90-4b2b-ae9f-c9e71d45a89c" />
+|
+
+| Cart |
+| --- |
 <img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/1cb0203b-e6dc-4bf0-b7cc-ece7279af4f8" />
-) |
+|
 
 | Checkout |
 | --- |
-| (<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/b4707589-c0cf-4eab-8491-ada3e2e6cdd8" />
-) |
+| (<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/b4707589-c0cf-4eab-8491-ada3e2e6cdd8" /> 
+|
 
 ## Getting Started
 
