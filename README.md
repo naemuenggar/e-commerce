@@ -48,8 +48,8 @@ Built with Next.js 14 (App Router), TypeScript in strict mode, and Tailwind CSS,
 
 | Product Detail | Cart |
 | --- | --- |
-| ![Product detail page](<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2b21c72f-8c90-4b2b-ae9f-c9e71d45a89c" />
-) | ![Shopping cart page](<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/1cb0203b-e6dc-4bf0-b7cc-ece7279af4f8" />
+| <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/2b21c72f-8c90-4b2b-ae9f-c9e71d45a89c" />
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/1cb0203b-e6dc-4bf0-b7cc-ece7279af4f8" />
 ) |
 
 | Checkout |
@@ -112,10 +112,6 @@ npm install -g vercel
 vercel          # Deploy a preview
 vercel --prod   # Deploy to production
 ```
-
-## Demo
-
-Live demo: [https://your-demo-link.vercel.app](https://your-demo-link.vercel.app) _(replace with your deployment URL)_
 
 ## Project Structure
 
